@@ -21,6 +21,7 @@ packages:
 - haxl-typed/
 - mega-repo-tool/
 - monad-http/
+- monisto/
 - periocron/
 - planmill-client/
 - postgresql-simple-url/
